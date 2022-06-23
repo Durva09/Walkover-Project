@@ -48,9 +48,7 @@ CREATE TABLE `demouser01_7` (
 
 /*Data for the table `demouser01_7` */
 
-insert  into `demouser01_7`(`A`,`B`,`C`,`D`,`E`) values 
-('A','B','2022-06-16','D','E'),
-('Hey','Love','2022-06-16','Meri','Jaan');
+
 
 /*Table structure for table `demouser01_8` */
 
@@ -82,8 +80,7 @@ CREATE TABLE `projectwalkover_1` (
 
 /*Data for the table `projectwalkover_1` */
 
-insert  into `projectwalkover_1`(`Col_01`,`Col_02`,`Col_03`,`Col_04`,`Col_05`) values 
-('heyo','this ','2022-06-16','is ','row_01');
+
 
 /*Table structure for table `tabledata_demouser01` */
 
@@ -99,15 +96,7 @@ CREATE TABLE `tabledata_demouser01` (
 
 /*Data for the table `tabledata_demouser01` */
 
-insert  into `tabledata_demouser01`(`table_name`,`table_desc`,`table_id`,`date_accessed`,`time_accessed`) values 
-('Table-01','This is the description of Table-01.','demouser01_1','2022-06-12','02:02:02'),
-('Table-02','This is the description of Table-02.','demouser01_2','2022-06-11','03:03:03'),
-('Table-03','This is the description of Table-03.','demouser01_3','2022-06-10','04:04:04'),
-('Table-04','This is the description of Table-04.','demouser01_4','2022-06-09','05:05:05'),
-('Table-05','This is the description of Table-05.','demouser01_5','2022-06-08','06:06:06'),
-('Table-06','This is the description of Table-06.','demouser01_6','2022-06-16','14:00:14'),
-('Dheeraj','Joshi','demouser01_7','2022-06-16','19:17:27'),
-('Durva','Chaplið??¸','demouser01_8','2022-06-16','14:00:10');
+
 
 /*Table structure for table `tabledata_hehedevil` */
 
@@ -137,8 +126,7 @@ CREATE TABLE `tabledata_projectwalkover` (
 
 /*Data for the table `tabledata_projectwalkover` */
 
-insert  into `tabledata_projectwalkover`(`table_name`,`table_desc`,`table_id`,`date_accessed`,`time_accessed`) values 
-('Table01','This is the very first table.','projectwalkover_1','2022-06-16','19:13:34');
+
 
 /*Table structure for table `users` */
 
