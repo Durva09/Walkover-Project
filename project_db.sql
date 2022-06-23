@@ -143,10 +143,7 @@ CREATE TABLE `users` (
 
 /*Data for the table `users` */
 
-insert  into `users`(`email`,`password`,`name`,`contact`,`username`) values 
-('arraghuvanshi12@gmail.com','12345','Dheeraj Joshi','1234689797','hehedevil'),
-('demouser@gmail.com','12345','Demo User','9876543210','demouser01'),
-('projectwalkover@gmail.com','12345','Walkover University','1234567890','projectwalkover');
+
 
 /*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
 /*!40014 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS */;
