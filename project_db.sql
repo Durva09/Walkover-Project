@@ -81,23 +81,6 @@ CREATE TABLE `projectwalkover_1` (
 /*Data for the table `projectwalkover_1` */
 
 
-
-/*Table structure for table `tabledata_demouser01` */
-
-DROP TABLE IF EXISTS `tabledata_demouser01`;
-
-CREATE TABLE `tabledata_demouser01` (
-  `table_name` varchar(100) default NULL,
-  `table_desc` varchar(500) default NULL,
-  `table_id` varchar(60) default NULL,
-  `date_accessed` date default NULL,
-  `time_accessed` time default NULL
-) ENGINE=InnoDB DEFAULT CHARSET=latin1;
-
-/*Data for the table `tabledata_demouser01` */
-
-
-
 /*Table structure for table `tabledata_hehedevil` */
 
 DROP TABLE IF EXISTS `tabledata_hehedevil`;
